@@ -7,6 +7,6 @@
             "email": "prince@yopmail.com"
         }
     ],
-    "minimum-stability": "pri",
+    "minimum-stability": "dev",
     "require": {}
 }
